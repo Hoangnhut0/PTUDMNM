@@ -82,6 +82,11 @@
             <div class="form-group">
                 <input class="btn btn-sm btn-success" type="submit" name="add" value="Save">
             </div>
+            <div class="form-group">
+                    <label>Chọn file CSV:</label>
+                    <input type="file" name="csvFile">
+                    <input class="btn btn-sm btn-primary" type="submit" name="add" value="Thêm">
+                </div>
         </form>
     </div>
 </div>
